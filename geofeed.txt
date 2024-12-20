@@ -1,23 +1,13 @@
-# TVYMAS Geofeed
+# WISPER Geofeed
 # This feed is encoded in RFC 8805 format.
-# Publication date: 2024-11-08
+# Publication date: 2024-12-19
 #
 # This data feed provides approximate geo locations for a subset of
-# TVYMAS IP space, and the data included in this feed may be used only
+# WISPER IP space, and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups
 #ip_prefix,alpha2code,region,city,postal_code
-38.137.212.0/24,CO,CO-CUN,Bogota,110121
-207.230.8.0/22,CO,CO-CUN,Bogota,110121
-38.191.192.0/21,CO,CO-VAC,Cali,760000
-38.191.200.0/21,CO,CO-MET,Villavicencio,500001
-38.191.220.0/22,CO,CO-NSA,Cucuta,540001
-38.191.208.0/24,CO,CO-SAN,Bucaramanga,680001
-38.191.210.0/25,CO,CO-ARA,Arauca,810001
-38.191.210.128/25,CO,CO-ARA,Saravena,815010
-38.191.211.0/24,CO,CO-ARA,Saravena,815010
-38.191.219.0/24,CO,CO-VAC,Cali,760000
-38.191.211.240/29,VE,VE-A,Caracas,1020
-38.191.211.248/29,VE,VE-A,Caracas,1020
-38.191.196.0/24,CO,CO-CUN,Bogota,110121
-38.191.199.0/24,CO,CO-CUN,Bogota,110121
-38.191.214.0/24,CO,CO-CUN,Bogota,110121
+38.211.46.0/27,CO,CO-ARA,Saravena,815010
+38.211.46.32/27,CO,CO-ARA,Saravena,815010
+38.211.46.64/27,CO,CO-ARA,Saravena,815010
+38.191.220.0/22,CO,CO-NSA,Toledo,540001
+38.211.46.128/25,VE,VE-A,Caracas,1020
